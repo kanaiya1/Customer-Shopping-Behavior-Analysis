@@ -203,7 +203,8 @@ This project demonstrates how data analytics can be used to:
 
 ## 📷 Dashboard Preview
 
-> *(Add screenshots of your Power BI dashboard here.)*
+> <img width="1902" height="925" alt="image" src="https://github.com/user-attachments/assets/4877508e-848f-480b-b3cd-fd2e3bea2cfb" />
+
 
 ---
 
